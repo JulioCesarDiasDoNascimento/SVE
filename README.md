@@ -1,1 +1,1 @@
-# SVE
+# Sistema de Votação Eletrônica (SVE)
